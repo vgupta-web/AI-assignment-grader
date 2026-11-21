@@ -1,0 +1,6 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+*.pyc
+core_logic2.py
+.env
